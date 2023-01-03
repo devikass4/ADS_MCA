@@ -57,7 +57,7 @@ void main()
 	    postorder(root);
 	    break;
 	case 6:
-	     ts();
+	     tsearch();
 	     break;
 	case 7:
 	    exit(0);
